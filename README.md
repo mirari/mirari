@@ -1,4 +1,12 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=mirari&show_icons=true">
+
+### Hi! ╮(╯▽╰)╭
+
+[![博客](https://img.shields.io/static/v1?label=%E5%8D%9A%E5%AE%A2&message=mirari.cc&color=&logo=bloglovin&style=flat-square&logoColor=white)](https://mirari.cc/)
+
+[![邮箱](https://img.shields.io/static/v1?label=邮箱&message=clover4@gmail.com&color=5194f0&logo=gmail&style=flat-square&logoColor=white)](mailto:clover4@gmail.com)
+
+[![Steam](https://img.shields.io/static/v1?label=Steam&message=mirari1st&color=5194f0&logo=steam&style=flat-square&logoColor=white)](https://steamcommunity.com/id/mirari1st)
 
 <!--
 **mirari/mirari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
